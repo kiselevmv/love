@@ -1,6 +1,10 @@
 # Compiled Lua sources
 luac.out
 
+#Love files
+Love/
+Love.app/
+
 # luarocks build files
 *.src.rock
 *.zip
